@@ -1,4 +1,4 @@
-# projects
+# Shopping Cart using Java 
 Build a Shopping Cart
 Instructions
 For this project, you will be writing all of your code in the script.js file located in the src/assets folder.
